@@ -1,0 +1,25 @@
+{
+  "name": "asmr-69",
+  "version": "1.0.0",
+  "description": "práctica codigo css",
+  "main": "eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaGitHub1974/cssProjets.git"
+  },
+  "author": "Rafael Pérez Aliende",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaGitHub1974/cssProjets/issues"
+  },
+  "homepage": "https://github.com/rafaGitHub1974/cssProjets#readme",
+  "devDependencies": {
+    "eslint-plugin-import": "^2.29.1",
+    "standard": "17.1.0"
+  },
+  "eslintConfig": {"extends":"./node_modules/standard/eslintrc.json"}
+}
